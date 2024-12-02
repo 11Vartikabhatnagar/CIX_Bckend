@@ -424,7 +424,7 @@ module.exports.routes = {
   
   // test route
   "POST /api/v1/auth/test-mail": "UsersController.testNotification",
-  'GET /check-connection': 'ConnectionCheckController.checkConnection'
+  // 'GET /check-connection': 'ConnectionCheckController.checkConnection'
 
   
   /***************************************************************************
